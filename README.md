@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # java-in-60-minutes
 
 > Java 👸🏻, I hate 🤬 you.
